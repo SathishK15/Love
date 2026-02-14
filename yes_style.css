@@ -21,7 +21,10 @@ body {
     font-size: 3em;
     color: #d32f2f;
 }
-
+.gif-result {
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
 .gif_container img {
     width: 35vw;
     max-width: 160px;
