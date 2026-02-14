@@ -21,7 +21,14 @@ body {
   .buttons {
     margin-top: 20px;
   }
-  
+  .local-gif {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto 3rem auto;
+  pointer-events: none;
+}
   .yes-button {
     font-size: 1.5em;
     padding: 10px 20px;
